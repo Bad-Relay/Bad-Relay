@@ -5,4 +5,4 @@
 
 
 Projects:
-https://github.com/Bad-Relay/Perl-Usb-Decoder
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bad-Relay&repo=Perl-Usb-Decoder)](https://github.com/Bad-Relay/Perl-Usb-Decoder)

@@ -7,5 +7,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bad-Relay&repo=Perl-Usb-Decoder)](https://github.com/Bad-Relay/Perl-Usb-Decoder)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bad-Relay&repo=PacketMap)](https://github.com/Bad-Relay/PacketMap)
+
 ![Learning](https://user-images.githubusercontent.com/36608560/116307093-c0e41380-a75a-11eb-8bda-c292e89e7a48.png)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bad-Relay&repo=ProgrammingChallenges)](https://github.com/Bad-Relay/ProgrammingChallenges)
